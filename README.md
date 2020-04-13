@@ -1,1 +1,1 @@
-This is the repository for the full stack coded using AngularJS, NodeJS and Bootstrap. An AWS RDS database was populated by scrapping SAT scores related data from the web. MySQL, NoSql (MongoDB) was used with query optimization and caching.
+This is the repository for the full stack coded using AngularJS, NodeJS and Bootstrap. An AWS RDS database was populated by scrapping SAT scores related data from the web. MySQL and NoSql (MongoDB) was used with query optimization and caching.
